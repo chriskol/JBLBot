@@ -62,3 +62,5 @@ target/
 .ipynb_checkpoints
 
 jblconfig.py
+JBLBot.sublime-project
+JBLBot.sublime-workspace
