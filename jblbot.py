@@ -4,7 +4,7 @@ import praw # simple interface to the reddit API, also handles rate limiting of 
 import time
 import sqlite3
 import json
-import jblconfig
+import /config/jblconfig
 
 
 SUBREDDIT = "GoldTesting"
