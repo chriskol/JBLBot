@@ -1,0 +1,6 @@
+{
+  "I love it!":"…Maggle",
+"Love it":"…Maggle"
+
+}
+
