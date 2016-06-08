@@ -10,5 +10,6 @@
 	"Kevin Owens":"HE'S A PRIZE FIGHTER, MAGGLE!",
 	"Bella Twins":"THEY'RE THE STARS OF TOTAL DIVAS MAGGLE! COURSE THEY STARTED DIVAS REVOLUTION!",
 	"Bellas":"THEY'RE THE STARS OF TOTAL DIVAS, MAGGLE! COURSE THEY STARTED DIVAS REVOLUTION!"
+	"mind games":"You can't play mind games with someone without mind!"
 }
 
